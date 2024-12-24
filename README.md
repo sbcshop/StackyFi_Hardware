@@ -6,13 +6,16 @@ StackyFi is an innovative standalone mini-controller board designed with the Ras
 
 This GitHub provides hardware design files for StackyFi board.
 
-
+### Repository Contents:
+  - [/Design Data](https://github.com/sbcshop/StackyFi_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
+  - [/Mechanical Data](https://github.com/sbcshop/StackyFi_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
+  - [Getting Started Guide](https://github.com/sbcshop/StackyFi_Software) - This repo contains StackyFi Getting Started instructions.
 
 ## Related Products  
 
-  * [RFID HAT](https://shop.sb-components.co.uk/products/zero-relay-2-channel-5v-relay-board-for-raspberry-pi)
+  * [2 Channel Relay HAT](https://shop.sb-components.co.uk/products/zero-relay-2-channel-5v-relay-board-for-raspberry-pi)
 
-    ![RFID HAT](https://shop.sb-components.co.uk/cdn/shop/files/1_37.png?v=1727765023&width=150)
+    ![zero-relay-2-channel](https://shop.sb-components.co.uk/cdn/shop/files/1_37.png?v=1727765023&width=150)
   
   * [1.28 Round Touch LCD HAT](https://shop.sb-components.co.uk/products/1-28-round-touch-lcd-hat-for-raspberry-pi)
 
@@ -26,9 +29,9 @@ This GitHub provides hardware design files for StackyFi board.
 
     ![zero-barcode-hat](https://shop.sb-components.co.uk/cdn/shop/products/0.jpg?v=1669181323&width=150)
     
-  * [Zero Barcode HAT](https://shop.sb-components.co.uk/products/stackypi)
+  * [StackyPi - Powered by Pico RP2040](https://shop.sb-components.co.uk/products/stackypi)
 
-    ![zero-barcode-hat](https://shop.sb-components.co.uk/cdn/shop/products/StackyPi.png?v=1648531908&width=150)
+    ![stackypi](https://shop.sb-components.co.uk/cdn/shop/products/StackyPi.png?v=1648531908&width=150)
 
     
 ## Product License
